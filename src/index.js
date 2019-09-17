@@ -74,10 +74,10 @@ class App extends Component {
       <div className="App">
         <img src={pageData.img} width="600" />
         <p class="type">{pageData.text}</p>
-        <button onClick={() => this.goToPage(pageData.leftPage)}>
+        <button class="btn" onClick={() => this.goToPage(pageData.leftPage)}>
           {pageData.leftLabel}
         </button>
-        <button onClick={() => this.goToPage(pageData.rightPage)}>
+        <button class="btn" onClick={() => this.goToPage(pageData.rightPage)}>
           {pageData.rightLabel}
         </button>
       </div>
