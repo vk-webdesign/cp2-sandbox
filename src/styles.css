@@ -7,7 +7,7 @@
 }
 
 .App {
-  font-family: atomic-age, sans-serif;
+  font-family: pt-sans, sans-serif;
   text-align: left;
 }
 
@@ -24,7 +24,8 @@
 }
 
 .type {
-  font-size: 28px;
+  font-size: 36px;
+  line-height: 38px;
   font-weight: 800;
   width: 600px;
 }
