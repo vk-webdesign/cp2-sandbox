@@ -34,7 +34,7 @@ var pages = {
   },
   death: {
     text:
-      "The host fllows you to your room. When you open the door you see the great outdoors. Puzzled you turn to the conductor. 'Haha this room is reserved for loosers!', says the conductor. He kicks you off!",
+      "The host follows you to your room. When you open the door you see the great outdoors. Puzzled you turn to the conductor. 'Haha this room is reserved for loosers!', says the conductor. He kicks you off!",
     leftLabel: "reset",
     leftPage: "start",
     img:
